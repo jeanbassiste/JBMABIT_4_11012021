@@ -848,6 +848,11 @@ h4 {
     background-image: url("img/image-de-presentation.jpg");
 }
 
+.CTA {
+    color: white;
+    font-size:28px;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
