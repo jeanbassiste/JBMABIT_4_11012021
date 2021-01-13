@@ -80,6 +80,15 @@ a:hover {
     background: top no-repeat;
 }
 
+.quote {
+    width: 600px;
+    max-width: 75%;
+    font-size: 22px;
+    font-weight: 300;
+    
+
+}
+
 .bloc-bg-texture::before {
     content: "";
     background-size: 2px 2px;
