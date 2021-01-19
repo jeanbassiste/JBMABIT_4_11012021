@@ -21,6 +21,15 @@ button:focus {
     transform: scale(1.5);
 }
 
+.bckgrd {
+    position: relative;
+    z-index: 0;
+}
+
+.frgrd {
+    position: relative;
+}
+
 a:hover {
     text-decoration: none;
     cursor: pointer;
