@@ -26,6 +26,12 @@ button:focus {
     z-index: 0;
 }
 
+.center {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
 .frgrd {
     position: relative;
 }
@@ -482,6 +488,7 @@ nav .caret {
 }
 
 .btn {
+    cursor:pointer;
     margin: 0 5px 5px 0;
 }
 
