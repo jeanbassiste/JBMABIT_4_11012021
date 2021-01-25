@@ -694,7 +694,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color:#303030!important;
 }
 
 .container {
@@ -882,7 +882,7 @@ h4 {
 }
 
 .darkwrite {
-    color:#303030;
+   
 
 }
 
