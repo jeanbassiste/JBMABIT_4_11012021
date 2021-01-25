@@ -879,7 +879,11 @@ h4 {
 
 .foot {
     font-size: 20px;
+}
+
+.darkwrite {
     color: #303030;
+
 }
 
 @media (max-width: 1024px) {
